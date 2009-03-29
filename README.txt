@@ -1,0 +1,1 @@
+Rails Templates (Req. Rails > 2.3)
