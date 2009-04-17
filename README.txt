@@ -1,1 +1,1 @@
-Rails Templates (Req. Rails > 2.3)
+Rails Templates (Requires Rails > 2.3)
